@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+}
+
+#header{
+    background: blanchedalmond;
+    height: 100px;
+    width: 100%;
+}
+#head-link{
+    background: coral;
+    height: 50px;
+    width: 100%;
+}
+#left{
+    background: aqua;
+    height: 500px;
+    width: 25%;
+    float: left;
+}
+#main{
+    background: yellow;
+    height: 500px;
+    width: 50%;
+    float: left;
+}
+#sidebar{
+    background: blue;
+    height: 500px;
+    width: 25%;
+    float: left;
+}
+#footer{
+    background: blanchedalmond;
+    height: 100px;
+    width: 100%;
+    clear: both;
+}
